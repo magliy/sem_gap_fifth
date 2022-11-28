@@ -1,0 +1,12 @@
+{
+  "task_1": {
+    "source_image": "circle.jpg",
+    "result_image": "images\\task_1.png"
+  },
+  "task_2": {
+    "result_image": "images\\task_2.png"
+  },
+  "task_3": {
+    "result_image": "images\\task_3.png"
+  }
+}
